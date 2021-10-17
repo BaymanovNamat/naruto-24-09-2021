@@ -1,0 +1,22 @@
+li {
+  float: left;
+  padding: 8px;
+  display: block;
+}
+#example-2 {
+  background-color: aqua;
+}
+#example-3 {
+  margin-right: 15px;
+  float: left;
+  margin-bottom: 25px;
+  text-indent: 15px;
+  width: 40%;
+  overflow: scroll;
+  height: 100px;
+  background-color: rgb(184, 87, 48);
+  color: white;
+  text-align: center;
+  border: 5px solid rgb(247, 96, 214);
+  margin-left: 25px;
+}
